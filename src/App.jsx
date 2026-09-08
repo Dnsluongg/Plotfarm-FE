@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import './App.css'
+import heroImg from './assets/images/hero.png'
+import reactLogo from './assets/images/react.svg'
+import viteLogo from './assets/images/vite.svg'
+import './App.scss'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Hellgjfjft
           </p>
         </div>
         <button
